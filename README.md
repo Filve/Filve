@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Filve
-- 👀 I’m interested in Devolping
+- 👀 I’m interested in Developing
 - 🌱 I’m currently teach C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin
 - 💞️ I’m looking to collaborate on Fullstack position
 - 📫 How to reach me valesim@my.com
