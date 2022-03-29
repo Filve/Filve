@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently teach C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin
 - 💞️ I’m looking to collaborate on Fullstack position
-- 📫 How to reach me valesim@my.com
+- 📫 How to reach me f.simeoni@my.com
 
 <!---
 Filve/Filve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
