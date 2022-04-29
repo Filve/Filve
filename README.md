@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Filve
 - 👀 I’m interested in Developing
-- 🌱 I’m currently teach C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin
-- 💞️ I’m looking to collaborate on Fullstack position
+- 🌱 I’m currently teach C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin, Unity
+- 💞️ I’m looking to collaborate on Fullstack position and Gaming Developer
 - 📫 How to reach me f.simeoni@my.com
 
 <!---
