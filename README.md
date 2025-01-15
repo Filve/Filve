@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filve
 - 👀 I’m interested in Developing
-- 🌱 I’m currently teach C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin, Unity
+- 🌱 I’m currently know C#, Flutter, Framework JS, Framework CSS, ASP.NET CORE - API - MVC, Xamarin, Unity
 - 💞️ I’m looking to collaborate on Fullstack position and Gaming Developer
 
 <!---
